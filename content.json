@@ -1,0 +1,772 @@
+{
+  "projects": [
+    {
+      "id": "villa-ras",
+      "name": "Villa Ras",
+      "location": "Ras Al Khaimah, UAE",
+      "year": "2026",
+      "description": "Residential interiors in Ras Al Khaimah, combining arched openings, textured finishes and natural materials.",
+      "image": "assets/villa-ras-thumb.webp",
+      "gallery": [
+        "assets/villa-ras-01.webp",
+        "assets/villa-ras-02.webp",
+        "assets/villa-ras-03.webp",
+        "assets/villa-ras-04.webp",
+        "assets/villa-ras-05.webp",
+        "assets/villa-ras-06.webp",
+        "assets/villa-ras-07.webp",
+        "assets/villa-ras-08.webp",
+        "assets/villa-ras-09.webp",
+        "assets/villa-ras-10.webp",
+        "assets/villa-ras-11.webp",
+        "assets/villa-ras-12.webp",
+        "assets/villa-ras-13.webp"
+      ],
+      "galleryMobile": [
+        "assets/gallery-mobile/villa-ras-01-960.webp",
+        "assets/gallery-mobile/villa-ras-02-960.webp",
+        "assets/gallery-mobile/villa-ras-03-960.webp",
+        "assets/gallery-mobile/villa-ras-04-960.webp",
+        "assets/gallery-mobile/villa-ras-05-960.webp",
+        "assets/gallery-mobile/villa-ras-06-960.webp",
+        "assets/gallery-mobile/villa-ras-07-960.webp",
+        "assets/gallery-mobile/villa-ras-08-960.webp",
+        "assets/gallery-mobile/villa-ras-09-960.webp",
+        "assets/gallery-mobile/villa-ras-10-960.webp",
+        "assets/gallery-mobile/villa-ras-11-960.webp",
+        "assets/gallery-mobile/villa-ras-12-960.webp",
+        "assets/gallery-mobile/villa-ras-13-960.webp"
+      ]
+    },
+    {
+      "id": "kish-touristic-path",
+      "name": "Kish Touristic Path",
+      "location": "Kish Island, Iran",
+      "year": "2026",
+      "description": "A public tourism route that brings together small destinations, landscape, retail and everyday gathering spaces across Kish Island.",
+      "image": "assets/kish-touristic-path-01.jpg",
+      "gallery": [
+        "assets/kish-touristic-path-01.jpg",
+        "assets/kish-touristic-path-02.jpg",
+        "assets/kish-touristic-path-03.jpg",
+        "assets/kish-touristic-path-04.jpg",
+        "assets/kish-touristic-path-05.jpg",
+        "assets/kish-touristic-path-06.jpg"
+      ],
+      "galleryMobile": [
+        "assets/kish-touristic-path-01.jpg",
+        "assets/kish-touristic-path-02.jpg",
+        "assets/kish-touristic-path-03.jpg",
+        "assets/kish-touristic-path-04.jpg",
+        "assets/kish-touristic-path-05.jpg",
+        "assets/kish-touristic-path-06.jpg"
+      ]
+    },
+    {
+      "id": "villa-morocco",
+      "name": "Villa Morocco",
+      "location": "Dubai, UAE",
+      "year": "2026",
+      "description": "A villa study drawing on Moroccan material warmth, shaded courtyards and contemporary family living.",
+      "image": "assets/villa-morocco-thumb.jpg",
+      "gallery": [
+        "assets/villa-morocco-1.jpg",
+        "assets/villa-morocco-2.jpg",
+        "assets/villa-morocco-3.jpg",
+        "assets/villa-morocco-4.jpg",
+        "assets/villa-morocco-5.jpg",
+        "assets/villa-morocco-6.jpg",
+        "assets/villa-morocco-7.jpg",
+        "assets/villa-morocco-8.jpg",
+        "assets/villa-morocco-9.jpg",
+        "assets/villa-morocco-10.jpg"
+      ],
+      "galleryMobile": [
+        "assets/villa-morocco-1.jpg",
+        "assets/villa-morocco-2.jpg",
+        "assets/villa-morocco-3.jpg",
+        "assets/villa-morocco-4.jpg",
+        "assets/villa-morocco-5.jpg",
+        "assets/villa-morocco-6.jpg",
+        "assets/villa-morocco-7.jpg",
+        "assets/villa-morocco-8.jpg",
+        "assets/villa-morocco-9.jpg",
+        "assets/villa-morocco-10.jpg"
+      ]
+    },
+    {
+      "id": "villa-persia",
+      "name": "Villa Persia",
+      "location": "Dubai, UAE",
+      "year": "2026",
+      "description": "A contemporary villa concept shaped by Persian patterns, filtered light and a calm sequence of interior spaces.",
+      "image": "assets/villa-persia-thumb.jpg",
+      "gallery": [
+        "assets/villa-persia-1.jpg",
+        "assets/villa-persia-2.jpg",
+        "assets/villa-persia-3.jpg",
+        "assets/villa-persia-4.jpg",
+        "assets/villa-persia-5.jpg",
+        "assets/villa-persia-6.jpg",
+        "assets/villa-persia-7.jpg",
+        "assets/villa-persia-8.jpg"
+      ],
+      "galleryMobile": [
+        "assets/villa-persia-1.jpg",
+        "assets/villa-persia-2.jpg",
+        "assets/villa-persia-3.jpg",
+        "assets/villa-persia-4.jpg",
+        "assets/villa-persia-5.jpg",
+        "assets/villa-persia-6.jpg",
+        "assets/villa-persia-7.jpg",
+        "assets/villa-persia-8.jpg"
+      ]
+    },
+    {
+      "id": "dashtestan-judiciary",
+      "name": "Dashtestan Judiciary",
+      "location": "Bushehr, Iran",
+      "year": "2026",
+      "description": "A civic architecture proposal for Dashtestan that balances institutional clarity, shaded movement and a welcoming public edge.",
+      "image": "assets/dashtestan-judiciary-thumb.jpg",
+      "gallery": [
+        "assets/dashtestan-judiciary-1.jpg",
+        "assets/dashtestan-judiciary-2.jpg",
+        "assets/dashtestan-judiciary-3.jpg",
+        "assets/dashtestan-judiciary-4.jpg",
+        "assets/dashtestan-judiciary-5.jpg",
+        "assets/dashtestan-judiciary-6.jpg",
+        "assets/dashtestan-judiciary-7.jpg",
+        "assets/dashtestan-judiciary-8.jpg",
+        "assets/dashtestan-judiciary-9.jpg",
+        "assets/dashtestan-judiciary-10.jpg",
+        "assets/dashtestan-judiciary-11.jpg",
+        "assets/dashtestan-judiciary-12.jpg",
+        "assets/dashtestan-judiciary-13.jpg"
+      ],
+      "galleryMobile": [
+        "assets/dashtestan-judiciary-1.jpg",
+        "assets/dashtestan-judiciary-2.jpg",
+        "assets/dashtestan-judiciary-3.jpg",
+        "assets/dashtestan-judiciary-4.jpg",
+        "assets/dashtestan-judiciary-5.jpg",
+        "assets/dashtestan-judiciary-6.jpg",
+        "assets/dashtestan-judiciary-7.jpg",
+        "assets/dashtestan-judiciary-8.jpg",
+        "assets/dashtestan-judiciary-9.jpg",
+        "assets/dashtestan-judiciary-10.jpg",
+        "assets/dashtestan-judiciary-11.jpg",
+        "assets/dashtestan-judiciary-12.jpg",
+        "assets/dashtestan-judiciary-13.jpg"
+      ]
+    },
+    {
+      "id": "beyt-al-atr",
+      "name": "Beyt Al Atr",
+      "location": "Kish Island, Iran",
+      "year": "2026",
+      "description": "A hospitality and residential study for Kish Island, with bright courtyards, tactile materials and a relaxed island character.",
+      "image": "assets/beyt-al-atr-thumb.jpg",
+      "gallery": [
+        "assets/beyt-al-atr-1.jpg",
+        "assets/beyt-al-atr-2.jpg",
+        "assets/beyt-al-atr-3.jpg",
+        "assets/beyt-al-atr-4.jpg",
+        "assets/beyt-al-atr-5.jpg"
+      ],
+      "galleryMobile": [
+        "assets/beyt-al-atr-1.jpg",
+        "assets/beyt-al-atr-2.jpg",
+        "assets/beyt-al-atr-3.jpg",
+        "assets/beyt-al-atr-4.jpg",
+        "assets/beyt-al-atr-5.jpg"
+      ]
+    },
+    {
+      "id": "jumeirah-villa",
+      "name": "Jumeirah Villa",
+      "location": "Dubai, UAE",
+      "year": "2026",
+      "description": "A generous family villa organised around layered thresholds, garden rooms and carefully framed views.",
+      "image": "assets/jumeirah-villa-thumb.jpg",
+      "gallery": [
+        "assets/jumeirah-villa-1.jpg",
+        "assets/jumeirah-villa-2.jpg",
+        "assets/jumeirah-villa-3.jpg",
+        "assets/jumeirah-villa-4.jpg",
+        "assets/jumeirah-villa-5.jpg",
+        "assets/jumeirah-villa-6.jpg",
+        "assets/jumeirah-villa-7.jpg",
+        "assets/jumeirah-villa-8.jpg",
+        "assets/jumeirah-villa-9.jpg",
+        "assets/jumeirah-villa-10.jpg",
+        "assets/jumeirah-villa-11.jpg",
+        "assets/jumeirah-villa-12.jpg",
+        "assets/jumeirah-villa-13.jpg",
+        "assets/jumeirah-villa-14.jpg",
+        "assets/jumeirah-villa-15.jpg",
+        "assets/jumeirah-villa-16.jpg",
+        "assets/jumeirah-villa-17.jpg"
+      ],
+      "galleryMobile": [
+        "assets/jumeirah-villa-1.jpg",
+        "assets/jumeirah-villa-2.jpg",
+        "assets/jumeirah-villa-3.jpg",
+        "assets/jumeirah-villa-4.jpg",
+        "assets/jumeirah-villa-5.jpg",
+        "assets/jumeirah-villa-6.jpg",
+        "assets/jumeirah-villa-7.jpg",
+        "assets/jumeirah-villa-8.jpg",
+        "assets/jumeirah-villa-9.jpg",
+        "assets/jumeirah-villa-10.jpg",
+        "assets/jumeirah-villa-11.jpg",
+        "assets/jumeirah-villa-12.jpg",
+        "assets/jumeirah-villa-13.jpg",
+        "assets/jumeirah-villa-14.jpg",
+        "assets/jumeirah-villa-15.jpg",
+        "assets/jumeirah-villa-16.jpg",
+        "assets/jumeirah-villa-17.jpg"
+      ]
+    },
+    {
+      "id": "mataam-kish-restaurant",
+      "name": "Mataam Kish Restaurant",
+      "location": "Kish Island, Iran",
+      "year": "2026",
+      "description": "A restaurant concept rooted in the social life of Kish, combining a clear public frontage with shaded outdoor seating.",
+      "image": "assets/mataam-kish-restaurant-thumb.jpg",
+      "gallery": [
+        "assets/mataam-kish-restaurant-1.jpg",
+        "assets/mataam-kish-restaurant-2.jpg",
+        "assets/mataam-kish-restaurant-3.jpg",
+        "assets/mataam-kish-restaurant-4.jpg",
+        "assets/mataam-kish-restaurant-5.jpg",
+        "assets/mataam-kish-restaurant-6.jpg",
+        "assets/mataam-kish-restaurant-7.jpg",
+        "assets/mataam-kish-restaurant-8.jpg"
+      ],
+      "galleryMobile": [
+        "assets/mataam-kish-restaurant-1.jpg",
+        "assets/mataam-kish-restaurant-2.jpg",
+        "assets/mataam-kish-restaurant-3.jpg",
+        "assets/mataam-kish-restaurant-4.jpg",
+        "assets/mataam-kish-restaurant-5.jpg",
+        "assets/mataam-kish-restaurant-6.jpg",
+        "assets/mataam-kish-restaurant-7.jpg",
+        "assets/mataam-kish-restaurant-8.jpg"
+      ]
+    },
+    {
+      "id": "marina-office",
+      "name": "Marina Office",
+      "location": "Dubai, UAE",
+      "year": "2026",
+      "description": "An office interior in Dubai Marina that combines woven textures, focused work settings and a warm hospitality atmosphere.",
+      "image": "assets/marina-office-thumb.jpg",
+      "gallery": [
+        "assets/marina-office-1.jpg",
+        "assets/marina-office-2.jpg",
+        "assets/marina-office-3.jpg",
+        "assets/marina-office-4.jpg",
+        "assets/marina-office-5.jpg",
+        "assets/marina-office-6.jpg"
+      ],
+      "galleryMobile": [
+        "assets/marina-office-1.jpg",
+        "assets/marina-office-2.jpg",
+        "assets/marina-office-3.jpg",
+        "assets/marina-office-4.jpg",
+        "assets/marina-office-5.jpg",
+        "assets/marina-office-6.jpg"
+      ]
+    },
+    {
+      "id": "majlis-house",
+      "name": "Majlis House",
+      "location": "Dubai, UAE",
+      "year": "2026",
+      "description": "A contemporary majlis house balancing generous gathering spaces, crafted details and a measured relationship with the garden.",
+      "image": "assets/majlis-house-thumb.jpg",
+      "gallery": [
+        "assets/majlis-house-1.jpg",
+        "assets/majlis-house-2.jpg",
+        "assets/majlis-house-3.jpg",
+        "assets/majlis-house-4.jpg",
+        "assets/majlis-house-5.jpg",
+        "assets/majlis-house-6.jpg",
+        "assets/majlis-house-7.jpg",
+        "assets/majlis-house-8.jpg",
+        "assets/majlis-house-9.jpg"
+      ],
+      "galleryMobile": [
+        "assets/majlis-house-1.jpg",
+        "assets/majlis-house-2.jpg",
+        "assets/majlis-house-3.jpg",
+        "assets/majlis-house-4.jpg",
+        "assets/majlis-house-5.jpg",
+        "assets/majlis-house-6.jpg",
+        "assets/majlis-house-7.jpg",
+        "assets/majlis-house-8.jpg",
+        "assets/majlis-house-9.jpg"
+      ]
+    },
+    {
+      "id": "lulu",
+      "name": "Lulu Al-Qais Eco Lodge",
+      "location": "Kish Island, Iran",
+      "year": "2024",
+      "description": "Courtyards, windcatchers and shaded passages reinterpret the vernacular architecture of southern Iran.",
+      "image": "assets/lulu-thumb.webp",
+      "gallery": [
+        "assets/lulu-0.webp",
+        "assets/lulu-1.webp",
+        "assets/lulu-2.webp",
+        "assets/lulu-3.webp",
+        "assets/lulu-4.webp",
+        "assets/lulu-5.webp"
+      ],
+      "galleryMobile": [
+        "assets/gallery-mobile/lulu-0-960.webp",
+        "assets/gallery-mobile/lulu-1-960.webp",
+        "assets/gallery-mobile/lulu-2-960.webp",
+        "assets/gallery-mobile/lulu-3-960.webp",
+        "assets/gallery-mobile/lulu-4-960.webp",
+        "assets/gallery-mobile/lulu-5-960.webp"
+      ]
+    },
+    {
+      "id": "chandal",
+      "name": "Chandal House",
+      "location": "Qeshm Island, Iran",
+      "year": "2024",
+      "description": "A compact eco-lodge shaped by local materials, a wind tower and the island climate.",
+      "image": "assets/chandal-thumb.webp",
+      "gallery": [
+        "assets/chandal-0.webp",
+        "assets/chandal-1.webp",
+        "assets/chandal-2.webp",
+        "assets/chandal-3.webp",
+        "assets/chandal-4.webp",
+        "assets/chandal-5.webp"
+      ],
+      "galleryMobile": [
+        "assets/gallery-mobile/chandal-0-960.webp",
+        "assets/gallery-mobile/chandal-1-960.webp",
+        "assets/gallery-mobile/chandal-2-960.webp",
+        "assets/gallery-mobile/chandal-3-960.webp",
+        "assets/gallery-mobile/chandal-4-960.webp",
+        "assets/gallery-mobile/chandal-5-960.webp"
+      ]
+    },
+    {
+      "id": "hayat",
+      "name": "Al Hayat Healing Center",
+      "location": "Doha, Qatar",
+      "year": "2021",
+      "description": "A private retreat organised around a cooling courtyard, bringing together Arabic and Cycladic influences.",
+      "image": "assets/hayat-thumb.webp",
+      "gallery": [
+        "assets/hayat-0.webp",
+        "assets/hayat-1.webp",
+        "assets/hayat-2.webp",
+        "assets/hayat-3.webp",
+        "assets/hayat-4.webp",
+        "assets/hayat-5.webp"
+      ],
+      "galleryMobile": [
+        "assets/gallery-mobile/hayat-0-960.webp",
+        "assets/gallery-mobile/hayat-1-960.webp",
+        "assets/gallery-mobile/hayat-2-960.webp",
+        "assets/gallery-mobile/hayat-3-960.webp",
+        "assets/gallery-mobile/hayat-4-960.webp",
+        "assets/gallery-mobile/hayat-5-960.webp"
+      ]
+    },
+    {
+      "id": "kish",
+      "name": "Kish Fish Market",
+      "location": "Kish Island, Iran",
+      "year": "2019",
+      "description": "A working coastal market redesigned around the needs of fishermen, traders and visitors.",
+      "image": "assets/kish-thumb.webp",
+      "gallery": [
+        "assets/kish-0.webp",
+        "assets/kish-1.webp",
+        "assets/kish-2.webp",
+        "assets/kish-3.webp",
+        "assets/kish-4.webp",
+        "assets/kish-5.webp"
+      ],
+      "galleryMobile": [
+        "assets/gallery-mobile/kish-0-960.webp",
+        "assets/gallery-mobile/kish-1-960.webp",
+        "assets/gallery-mobile/kish-2-960.webp",
+        "assets/gallery-mobile/kish-3-960.webp",
+        "assets/gallery-mobile/kish-4-960.webp",
+        "assets/gallery-mobile/kish-5-960.webp"
+      ]
+    },
+    {
+      "id": "dhaid",
+      "name": "Al Dhaid Farmhouse",
+      "location": "Sharjah, UAE",
+      "year": "2022",
+      "description": "Warm timber, wicker and natural colour bring the spirit of a farm into a five-bedroom family villa.",
+      "image": "assets/dhaid-thumb.webp",
+      "gallery": [
+        "assets/dhaid-0.webp",
+        "assets/dhaid-1.webp",
+        "assets/dhaid-2.webp",
+        "assets/dhaid-3.webp",
+        "assets/dhaid-4.webp",
+        "assets/dhaid-5.webp"
+      ],
+      "galleryMobile": [
+        "assets/gallery-mobile/dhaid-0-960.webp",
+        "assets/gallery-mobile/dhaid-1-960.webp",
+        "assets/gallery-mobile/dhaid-2-960.webp",
+        "assets/gallery-mobile/dhaid-3-960.webp",
+        "assets/gallery-mobile/dhaid-4-960.webp",
+        "assets/gallery-mobile/dhaid-5-960.webp"
+      ]
+    },
+    {
+      "id": "cafe",
+      "name": "66 Cafe",
+      "location": "Muscat, Oman",
+      "year": "2024",
+      "description": "A 35-square-metre café with soft arches, natural textures and an intimate atmosphere.",
+      "image": "assets/cafe-thumb.webp",
+      "gallery": [
+        "assets/cafe-0.webp",
+        "assets/cafe-1.webp",
+        "assets/cafe-2.webp",
+        "assets/cafe-3.webp",
+        "assets/cafe-4.webp",
+        "assets/cafe-5.webp"
+      ],
+      "galleryMobile": [
+        "assets/gallery-mobile/cafe-0-960.webp",
+        "assets/gallery-mobile/cafe-1-960.webp",
+        "assets/gallery-mobile/cafe-2-960.webp",
+        "assets/gallery-mobile/cafe-3-960.webp",
+        "assets/gallery-mobile/cafe-4-960.webp",
+        "assets/gallery-mobile/cafe-5-960.webp"
+      ]
+    },
+    {
+      "id": "medore",
+      "name": "Me Do Re Residence",
+      "location": "Dubai, UAE",
+      "year": "2024",
+      "description": "Interior design for Unit 3208, bringing natural textures and a calm palette to a Dubai home.",
+      "image": "assets/medore-thumb.webp",
+      "gallery": [
+        "assets/medore-0.webp",
+        "assets/medore-1.webp",
+        "assets/medore-2.webp",
+        "assets/medore-3.webp",
+        "assets/medore-4.webp",
+        "assets/medore-5.webp"
+      ],
+      "galleryMobile": [
+        "assets/gallery-mobile/medore-0-960.webp",
+        "assets/gallery-mobile/medore-1-960.webp",
+        "assets/gallery-mobile/medore-2-960.webp",
+        "assets/gallery-mobile/medore-3-960.webp",
+        "assets/gallery-mobile/medore-4-960.webp",
+        "assets/gallery-mobile/medore-5-960.webp"
+      ]
+    },
+    {
+      "id": "bath",
+      "name": "Etihad Traditional Bath",
+      "location": "Damavand, Iran",
+      "year": "2020",
+      "description": "A sensitive renovation that preserves the spatial character of a historic bathhouse.",
+      "image": "assets/bath-thumb.webp",
+      "gallery": [
+        "assets/bath-0.webp",
+        "assets/bath-1.webp",
+        "assets/bath-2.webp",
+        "assets/bath-3.webp",
+        "assets/bath-4.webp",
+        "assets/bath-5.webp"
+      ],
+      "galleryMobile": [
+        "assets/gallery-mobile/bath-0-960.webp",
+        "assets/gallery-mobile/bath-1-960.webp",
+        "assets/gallery-mobile/bath-2-960.webp",
+        "assets/gallery-mobile/bath-3-960.webp",
+        "assets/gallery-mobile/bath-4-960.webp",
+        "assets/gallery-mobile/bath-5-960.webp"
+      ]
+    },
+    {
+      "id": "bushehr",
+      "name": "Bushehr Lighthouse",
+      "location": "Bushehr, Iran",
+      "year": "2016",
+      "description": "A coastal landmark and public space inspired by the traditional windows and architecture of Bushehr.",
+      "image": "assets/bushehr-thumb.webp",
+      "gallery": [
+        "assets/bushehr-0.webp",
+        "assets/bushehr-1.webp",
+        "assets/bushehr-2.webp",
+        "assets/bushehr-3.webp",
+        "assets/bushehr-4.webp",
+        "assets/bushehr-5.webp"
+      ],
+      "galleryMobile": [
+        "assets/gallery-mobile/bushehr-0-960.webp",
+        "assets/gallery-mobile/bushehr-1-960.webp",
+        "assets/gallery-mobile/bushehr-2-960.webp",
+        "assets/gallery-mobile/bushehr-3-960.webp",
+        "assets/gallery-mobile/bushehr-4-960.webp",
+        "assets/gallery-mobile/bushehr-5-960.webp"
+      ]
+    },
+    {
+      "id": "chabahar",
+      "name": "Chabahar Fish Market",
+      "location": "Chabahar, Iran",
+      "year": "2021",
+      "description": "A market proposal connecting trade, support facilities and public life through local architectural traditions.",
+      "image": "assets/chabahar-thumb.webp",
+      "gallery": [
+        "assets/chabahar-0.webp",
+        "assets/chabahar-1.webp",
+        "assets/chabahar-2.webp",
+        "assets/chabahar-3.webp",
+        "assets/chabahar-4.webp",
+        "assets/chabahar-5.webp"
+      ],
+      "galleryMobile": [
+        "assets/gallery-mobile/chabahar-0-960.webp",
+        "assets/gallery-mobile/chabahar-1-960.webp",
+        "assets/gallery-mobile/chabahar-2-960.webp",
+        "assets/gallery-mobile/chabahar-3-960.webp",
+        "assets/gallery-mobile/chabahar-4-960.webp",
+        "assets/gallery-mobile/chabahar-5-960.webp"
+      ]
+    },
+    {
+      "id": "taleqan",
+      "name": "Taleqan Villa",
+      "location": "Taleqan, Iran",
+      "year": "2020",
+      "description": "A two-storey home with a sloping roof, garden and outdoor spaces responding to a temperate climate.",
+      "image": "assets/taleqan-thumb.webp",
+      "gallery": [
+        "assets/taleqan-0.webp",
+        "assets/taleqan-1.webp",
+        "assets/taleqan-2.webp"
+      ],
+      "galleryMobile": [
+        "assets/gallery-mobile/taleqan-0-960.webp",
+        "assets/gallery-mobile/taleqan-1-960.webp",
+        "assets/gallery-mobile/taleqan-2-960.webp"
+      ]
+    },
+    {
+      "id": "amiri",
+      "name": "Amiri Diwan Desert Resort",
+      "location": "Lar, Iran",
+      "year": "2018",
+      "description": "A desert residence combining Arabic architectural elements, shaded screens and contemporary spaces.",
+      "image": "assets/amiri-thumb.webp",
+      "gallery": [
+        "assets/amiri-0.webp",
+        "assets/amiri-1.webp",
+        "assets/amiri-2.webp",
+        "assets/amiri-3.webp",
+        "assets/amiri-4.webp",
+        "assets/amiri-5.webp"
+      ],
+      "galleryMobile": [
+        "assets/gallery-mobile/amiri-0-960.webp",
+        "assets/gallery-mobile/amiri-1-960.webp",
+        "assets/gallery-mobile/amiri-2-960.webp",
+        "assets/gallery-mobile/amiri-3-960.webp",
+        "assets/gallery-mobile/amiri-4-960.webp",
+        "assets/gallery-mobile/amiri-5-960.webp"
+      ]
+    },
+    {
+      "id": "kish-turtle-monitoring-site",
+      "name": "Kish Turtle Monitoring Site",
+      "location": "Kish Island, Iran",
+      "year": "2018",
+      "description": "An architectural project for a turtle monitoring site on Kish Island, Iran.",
+      "image": "assets/kish-turtle-monitoring-site-thumb.webp",
+      "gallery": [
+        "assets/kish-turtle-monitoring-site-01.webp",
+        "assets/kish-turtle-monitoring-site-02.webp",
+        "assets/kish-turtle-monitoring-site-03.webp",
+        "assets/kish-turtle-monitoring-site-04.webp",
+        "assets/kish-turtle-monitoring-site-05.webp",
+        "assets/kish-turtle-monitoring-site-06.webp",
+        "assets/kish-turtle-monitoring-site-07.webp",
+        "assets/kish-turtle-monitoring-site-08.webp",
+        "assets/kish-turtle-monitoring-site-09.webp",
+        "assets/kish-turtle-monitoring-site-10.webp"
+      ],
+      "galleryMobile": [
+        "assets/gallery-mobile/kish-turtle-monitoring-site-01-960.webp",
+        "assets/gallery-mobile/kish-turtle-monitoring-site-02-960.webp",
+        "assets/gallery-mobile/kish-turtle-monitoring-site-03-960.webp",
+        "assets/gallery-mobile/kish-turtle-monitoring-site-04-960.webp",
+        "assets/gallery-mobile/kish-turtle-monitoring-site-05-960.webp",
+        "assets/gallery-mobile/kish-turtle-monitoring-site-06-960.webp",
+        "assets/gallery-mobile/kish-turtle-monitoring-site-07-960.webp",
+        "assets/gallery-mobile/kish-turtle-monitoring-site-08-960.webp",
+        "assets/gallery-mobile/kish-turtle-monitoring-site-09-960.webp",
+        "assets/gallery-mobile/kish-turtle-monitoring-site-10-960.webp"
+      ]
+    },
+    {
+      "id": "mashe-mosque-landscape",
+      "name": "Mashe Mosque Landscape Design",
+      "location": "Kish Island, Iran",
+      "year": "2019",
+      "description": "Landscape design around Mashe Mosque on Kish Island, Iran.",
+      "image": "assets/mashe-mosque-cover-v2.webp",
+      "gallery": [
+        "assets/mashe-mosque-landscape-01.webp",
+        "assets/mashe-mosque-landscape-02.webp",
+        "assets/mashe-mosque-landscape-03.webp",
+        "assets/mashe-mosque-landscape-04.webp"
+      ],
+      "galleryMobile": [
+        "assets/gallery-mobile/mashe-mosque-landscape-01-960.webp",
+        "assets/gallery-mobile/mashe-mosque-landscape-02-960.webp",
+        "assets/gallery-mobile/mashe-mosque-landscape-03-960.webp",
+        "assets/gallery-mobile/mashe-mosque-landscape-04-960.webp"
+      ]
+    },
+    {
+      "id": "madinat-jumeirah-living-lamma-4",
+      "name": "Madinat Jumeirah Living LAMMA 4",
+      "location": "Dubai, UAE",
+      "year": "2026",
+      "description": "Residential interior design at Madinat Jumeirah Living LAMMA 4 in Dubai, UAE.",
+      "image": "assets/madinat-jumeirah-living-lamma-4-thumb.webp",
+      "gallery": [
+        "assets/madinat-jumeirah-living-lamma-4-01.webp",
+        "assets/madinat-jumeirah-living-lamma-4-02.webp",
+        "assets/madinat-jumeirah-living-lamma-4-03.webp",
+        "assets/madinat-jumeirah-living-lamma-4-04.webp",
+        "assets/madinat-jumeirah-living-lamma-4-05.webp",
+        "assets/madinat-jumeirah-living-lamma-4-06.webp",
+        "assets/madinat-jumeirah-living-lamma-4-07.webp",
+        "assets/madinat-jumeirah-living-lamma-4-08.webp",
+        "assets/madinat-jumeirah-living-lamma-4-09.webp",
+        "assets/madinat-jumeirah-living-lamma-4-10.webp",
+        "assets/madinat-jumeirah-living-lamma-4-11.webp",
+        "assets/madinat-jumeirah-living-lamma-4-12.webp",
+        "assets/madinat-jumeirah-living-lamma-4-13.webp"
+      ],
+      "galleryMobile": [
+        "assets/gallery-mobile/madinat-jumeirah-living-lamma-4-01-960.webp",
+        "assets/gallery-mobile/madinat-jumeirah-living-lamma-4-02-960.webp",
+        "assets/gallery-mobile/madinat-jumeirah-living-lamma-4-03-960.webp",
+        "assets/gallery-mobile/madinat-jumeirah-living-lamma-4-04-960.webp",
+        "assets/gallery-mobile/madinat-jumeirah-living-lamma-4-05-960.webp",
+        "assets/gallery-mobile/madinat-jumeirah-living-lamma-4-06-960.webp",
+        "assets/gallery-mobile/madinat-jumeirah-living-lamma-4-07-960.webp",
+        "assets/gallery-mobile/madinat-jumeirah-living-lamma-4-08-960.webp",
+        "assets/gallery-mobile/madinat-jumeirah-living-lamma-4-09-960.webp",
+        "assets/gallery-mobile/madinat-jumeirah-living-lamma-4-10-960.webp",
+        "assets/gallery-mobile/madinat-jumeirah-living-lamma-4-11-960.webp",
+        "assets/gallery-mobile/madinat-jumeirah-living-lamma-4-12-960.webp",
+        "assets/gallery-mobile/madinat-jumeirah-living-lamma-4-13-960.webp"
+      ]
+    }
+  ],
+  "logos": [
+    {
+      "image": "assets/partner-0.webp",
+      "name": "66 cafe"
+    },
+    {
+      "image": "assets/partner-1.webp",
+      "name": "Al Ansari exchange"
+    },
+    {
+      "image": "assets/partner-2.webp",
+      "name": "Bushehr municipalty"
+    },
+    {
+      "image": "assets/partner-3.webp",
+      "name": "DIWAN AMIRI QATAR"
+    },
+    {
+      "image": "assets/partner-4.webp",
+      "name": "Dubai municipalty"
+    },
+    {
+      "image": "assets/partner-5.webp",
+      "name": "MAKU FREE ZONE"
+    },
+    {
+      "image": "assets/partner-6.webp",
+      "name": "Qeshm free zome"
+    },
+    {
+      "image": "assets/partner-7.webp",
+      "name": "SAZMAN"
+    },
+    {
+      "image": "assets/partner-8.webp",
+      "name": "SHERKAT OMRAN"
+    },
+    {
+      "image": "assets/partner-9.webp",
+      "name": "Society of engineering dubai"
+    },
+    {
+      "image": "assets/partner-10.webp",
+      "name": "TEHRAN municipalty"
+    },
+    {
+      "image": "assets/partner-11.webp",
+      "name": "THE VILLAGE OMAN"
+    },
+    {
+      "image": "assets/partner-12.webp",
+      "name": "UT"
+    },
+    {
+      "image": "assets/partner-13.webp",
+      "name": "Collaborating organisation"
+    },
+    {
+      "image": "assets/partner-14-v3.svg",
+      "name": "David Jones"
+    },
+    {
+      "image": "assets/partner-knauf-white.svg",
+      "name": "KNAUF IRAN"
+    }
+  ],
+  "instagramPosts": [
+    {
+      "url": "https://www.instagram.com/p/DcZOjTpsk66/",
+      "date": "23 August 2026",
+      "caption": "From sketch to reality…",
+      "image": null
+    },
+    {
+      "url": "https://www.instagram.com/p/Da7llYHML2q/",
+      "date": "18 July 2026",
+      "caption": "From the studio",
+      "image": "assets/instagram-july.webp"
+    },
+    {
+      "url": "https://www.instagram.com/p/DaFSF37M4t7/",
+      "date": "27 June 2026",
+      "caption": "From the studio",
+      "image": "assets/instagram-june.webp"
+    }
+  ]
+}
