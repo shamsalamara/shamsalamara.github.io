@@ -1,0 +1,48 @@
+name: Publish Shams Al Amara
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: github-pages
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v6
+      - name: Import the approved version once
+        if: hashFiles('site-v25.zip.part01') != ''
+        shell: bash
+        run: |
+          set -euo pipefail
+          archive="$RUNNER_TEMP/shams-approved-v25.zip"
+          cat site-v25.zip.part{01..06} > "$archive"
+          echo "a27a848213348a1ccd1bd08165b1eb8239a0fdada20609613ad37fc166f74cb3  $archive" | sha256sum --check
+          unzip -o "$archive" -d .
+          git rm site-v25.zip.part{01..06}
+          git add .nojekyll README.md assets *.html *.js *.css *.json
+          git -c user.name='github-actions[bot]' -c user.email='41898282+github-actions[bot]@users.noreply.github.com' commit -m 'Import all approved version 25 website files'
+          git push origin HEAD:main
+      - name: Prepare the public website
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p "$RUNNER_TEMP/shams-public"
+          rsync -a --exclude='.git/' --exclude='.github/' --exclude='README.md' --exclude='site-v25.zip.part*' ./ "$RUNNER_TEMP/shams-public/"
+          test -f "$RUNNER_TEMP/shams-public/index.html"
+          test -f "$RUNNER_TEMP/shams-public/assets/header-brand-white.svg"
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: ${{ runner.temp }}/shams-public
+      - name: Publish the website
+        id: deployment
+        uses: actions/deploy-pages@v4
